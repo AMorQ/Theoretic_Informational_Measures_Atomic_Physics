@@ -15,6 +15,8 @@ This repository focuses on theoretical and computational approaches to atomic ph
 
 The **Theoretic_Informational_Measures_Atomic_Physics** repository is designed for the exploration of atomic physics through theoretical models and computational tools. It leverages **Mathematica** to study and analyze **relativistic harmonic oscillators**, such as **Dirac Oscillators**, and their quantum properties.
 
+This is the code of the paper: [Master's Thesis](https://www.academia.edu/126251420/MEDIDAS_TE%C3%93RICO_INFORMACIONALES_APLICADAS_AL_OSCILADOR_DE_DIRAC_INFORMATION_THEORETICAL_MEASURES_ON_DIRACS_OSCILLATOR_TRABAJO_DE_FIN_DE_MASTER_ALBA_M_ORQU_ECHO_DELGADO_DIRIGIDO_POR_JU_AN_CARLOS_AN_GU_LO)
+
 Key topics covered include:
 
 * Relativistic quantum mechanics.
